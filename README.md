@@ -2,6 +2,7 @@
 This is a [lair](https://github.com/lair-framework) drone for importing json output from [Amass](https://github.com/OWASP/Amass) into a lair project.
 
 # Usage
+- Download a compiled binary release for your platorm at [releases](https://github.com/cham423/drone-amass/releases)
 ```
   drone-amass [options] <id> <filename>
   export LAIR_ID=<id>; drone-amass [options] <filename>
